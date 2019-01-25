@@ -1,0 +1,10 @@
+D:\Codes\C#\UFCheck\UFCheck\bin\Release\UFCheck.exe.config
+D:\Codes\C#\UFCheck\UFCheck\bin\Release\UFCheck.exe
+D:\Codes\C#\UFCheck\UFCheck\bin\Release\UFCheck.pdb
+D:\Codes\C#\UFCheck\UFCheck\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Codes\C#\UFCheck\UFCheck\obj\Release\UFCheck.Properties.Resources.resources
+D:\Codes\C#\UFCheck\UFCheck\obj\Release\UFCheck.Views.UFCheckView.resources
+D:\Codes\C#\UFCheck\UFCheck\obj\Release\UFCheck.csproj.GenerateResource.Cache
+D:\Codes\C#\UFCheck\UFCheck\obj\Release\UFCheck.exe
+D:\Codes\C#\UFCheck\UFCheck\obj\Release\UFCheck.pdb
+D:\Codes\C#\UFCheck\UFCheck\obj\Release\UFCheck.csprojResolveAssemblyReference.cache
